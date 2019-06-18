@@ -1,0 +1,4 @@
+com/WCS/quest/QuestHibernate/repositories/gameDao.class
+com/WCS/quest/QuestHibernate/entities/Game.class
+com/WCS/quest/QuestHibernate/utils/Outputter.class
+com/WCS/quest/QuestHibernate/QuestHibernateApplication.class
